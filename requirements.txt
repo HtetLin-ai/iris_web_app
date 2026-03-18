@@ -1,3 +1,4 @@
+altair==4.2.2
 streamlit==1.55.0
 joblit==1.5.3
 numpy==2.4.2
